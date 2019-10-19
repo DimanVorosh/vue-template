@@ -1,2 +1,2 @@
 # vue-template
-Template for new vuejs application
+Template for new Vue Js application
